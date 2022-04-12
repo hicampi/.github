@@ -5,9 +5,10 @@ Hicampi is a platform which makes to build and scale your backend easily.
 We offer our own products like:
 
 - 🔐 Auth
-- 🛢 Database
+- 🚪 Unified Login
 - 🗂 Storage
 - 📡 Realtime
+- 🛢 Database
 - 🎮 Console
 - ...
 

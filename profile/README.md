@@ -1,17 +1,6 @@
-## Hi there 👋
+## Hey Hey 👋
 
-Hicampi is a platform which makes to build and scale your backend easily.
+Hicampi is a platform to keep you connnected with the campuses you care.
 
-We offer our own products like:
+Visit [our website](https://www.hicampi.com) 🚀
 
-- 🔐 Auth
-- 🚪 Unified Login
-- 🗂 Storage
-- 📡 Realtime
-- 🛢 Database
-- 🎮 Console
-- ...
-
-Visit [our website](https://hicampi.com) to learn more.
-
-Start your backend free from [Hicampi Console](https://console.hicampi.com) 🚀

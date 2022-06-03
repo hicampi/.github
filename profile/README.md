@@ -1,4 +1,4 @@
-## Hey Hey 👋
+## 👋 Hey! Hey!
 
 Hicampi is a platform to keep you connnected with the campuses you care.
 
